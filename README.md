@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IJR758
-- 👀 I’m interested in info tech and cyber security
-- 🌱 I’m currently learning about AWS infrastructure, Linux and Python
-- 💞️ I’m looking to collaborate with other new people to GitHub and coding with python
+- 👋 Hi, I’m @IJR
+- 👀 I have a strong passion and great interest in the Info Tech/Cyber security field
+- 🌱 My current learning path is now focused on Amazon Web Services (CP and SA), Linux and Python.
+- 💞️ I’m looking to collaborate with new people from all levels but especially those new working on their Linux and Python skills.
 - 📫 You can reach me at https://www.linkedin.com/in/ithan-remy-602a181a1/ 
 
 <!---
