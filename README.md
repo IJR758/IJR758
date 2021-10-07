@@ -1,6 +1,6 @@
 - 👋 Hi all, I’m @IJR.
 - 👀 I have a strong passion and interest in almost all things Info Tech/Cyber security field and always wanted to know my way around Python.
-- 🌱 I have a few certs and courses to my name but my learning path at this moment is currently on cloud technology with Amazon Web Services. At this moment I have "okay" Linux and Python skills but they're improving every month.
+- 🌱 I have a few certs and courses to my name but my learning path at this moment is currently centred arround Cloud Technology and DevOps tools and methodologies. At this moment I have "okay" Linux and Python skills but they're improving every month.
 - 💞️ I’m looking to collaborate with new people from all levels but especially those new working on improving their Linux and Python skills or knowledge on cloud computing.
 - 📫 You can reach me at https://www.linkedin.com/in/ithan-remy-602a181a1/ 
 
